@@ -44,7 +44,7 @@
     welcomeElement.style.zIndex = '10002';
     welcomeElement.style.textAlign = 'center';
     welcomeElement.innerHTML = `
-    <div style="font-size: 40px; font-weight: bold; color: #ffffff;">Welcome to bedzar</div>
+    <div style="font-size: 40px; font-weight: bold; color: #ffffff;">Welcome to bedspy</div>
     <div style="font-size: 20px; color: #00d6cc; margin-top: 10px;">
         Made by <a href="https://github.com/bed0c" target="_blank" style="color: #00d6cc; text-decoration: none;">bed0c</a>
     </div>
@@ -128,7 +128,7 @@
         <div id="drag-handle" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; cursor: move;">
             <div style="display: flex; align-items: center;">
                 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGQ2Y2MiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1zZWFyY2giPjxjaXJjbGUgY3g9IjExIiBjeT0iMTEiIHI9IjgiPjwvY2lyY2xlPjxwYXRoIGQ9Im0yMSAyMS00LjMtNC4zIj48L3BhdGg+PC9zdmc+" style="width: 24px; height: 24px; margin-right: 10px;" alt="Search Logo">
-                <h3 style="margin: 0; color: #ffffff;">bedzar</h3>
+                <h3 style="margin: 0; color: #ffffff;">bedspy</h3>
             </div>
             <div>
                 <button id="clear-ip-list" style="padding: 8px 15px; border: none; background-color: #2c2c2c; color: white; border-radius: 8px; cursor: pointer; transition: all 0.3s; margin-right: 5px;">Clear</button>
@@ -644,7 +644,7 @@
     welcomeElement.style.zIndex = '10002';
     welcomeElement.style.textAlign = 'center';
     welcomeElement.innerHTML = `
-    <div style="font-size: 40px; font-weight: bold; color: #ffffff;">Welcome to bedzar</div>
+    <div style="font-size: 40px; font-weight: bold; color: #ffffff;">Welcome to bedspy</div>
     <div style="font-size: 20px; color: #00d6cc; margin-top: 10px;">
         Made by <a href="https://github.com/bed0c" target="_blank" style="color: #00d6cc; text-decoration: none;">bed0c</a>
     </div>
@@ -728,7 +728,7 @@
         <div id="drag-handle" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; cursor: move;">
             <div style="display: flex; align-items: center;">
                 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGQ2Y2MiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1zZWFyY2giPjxjaXJjbGUgY3g9IjExIiBjeT0iMTEiIHI9IjgiPjwvY2lyY2xlPjxwYXRoIGQ9Im0yMSAyMS00LjMtNC4zIj48L3BhdGg+PC9zdmc+" style="width: 24px; height: 24px; margin-right: 10px;" alt="Search Logo">
-                <h3 style="margin: 0; color: #ffffff;">bedzar</h3>
+                <h3 style="margin: 0; color: #ffffff;">bedspy</h3>
             </div>
             <div>
                 <button id="clear-ip-list" style="padding: 8px 15px; border: none; background-color: #2c2c2c; color: white; border-radius: 8px; cursor: pointer; transition: all 0.3s; margin-right: 5px;">Clear</button>
